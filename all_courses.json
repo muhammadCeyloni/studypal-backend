@@ -1,0 +1,1281 @@
+[
+  {
+    "course_name": "BSc (Hons) Business Computing",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "computing"
+    ],
+    "url": "https://www.iit.ac.lk/course/bsc-business-computing/"
+  },
+  {
+    "course_name": "BEng (Hons) Software Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "software",
+      "engineering"
+    ],
+    "url": "https://www.iit.ac.lk/course/beng-software-engineering/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://www.iit.ac.lk/course/bsc-computer-science/"
+  },
+  {
+    "course_name": "BSc (Hons) Artificial Intelligence And Data Science",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "artificial",
+      "intelligence",
+      "data",
+      "science"
+    ],
+    "url": "https://www.iit.ac.lk/course/bsc-artificial-intelligence-and-data-science/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Data Analytics",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "data",
+      "analytics"
+    ],
+    "url": "https://www.iit.ac.lk/course/bsc-business-data-analytics/"
+  },
+  {
+    "course_name": "BA (Hons) Business Management",
+    "degree_type": "BA (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://www.iit.ac.lk/course/ba-business-management/"
+  },
+  {
+    "course_name": "MSc Applied Artificial Intelligence",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "applied",
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-applied-artificial-intelligence/"
+  },
+  {
+    "course_name": "MA Fashion Business Management",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "fashion",
+      "business",
+      "management"
+    ],
+    "url": "https://www.iit.ac.lk/course/ma-fashion-business-management/"
+  },
+  {
+    "course_name": "MSc Business Analytics",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "analytics"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-business-analytics/"
+  },
+  {
+    "course_name": "MSc Information Technology",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "information",
+      "technology"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-information-technology/"
+  },
+  {
+    "course_name": "MSc Big Data Analytics",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "data",
+      "analytics"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-big-data-analytics/"
+  },
+  {
+    "course_name": "MSc Cyber Security And Forensics",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "cyber",
+      "security",
+      "forensics"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-cyber-security-and-forensics/"
+  },
+  {
+    "course_name": "MSc Advanced Software Engineering",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "advanced",
+      "software",
+      "engineering"
+    ],
+    "url": "https://www.iit.ac.lk/course/msc-advanced-software-engineering/"
+  },
+  {
+    "course_name": "Fundamentals of Data Science",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "fundamentals",
+      "data",
+      "science"
+    ],
+    "url": "https://www.iit.ac.lk/course/fundamentals-of-data-science/"
+  },
+  {
+    "course_name": "Project Management In The Digital Age",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "February",
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "project",
+      "management",
+      "digital"
+    ],
+    "url": "https://www.iit.ac.lk/course/project-management-in-the-digital-age/"
+  },
+  {
+    "course_name": "3 Day Advanced Excel Workshop",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "June",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "advanced",
+      "excel",
+      "workshop"
+    ],
+    "url": "https://www.iit.ac.lk/course/3-day-excel-workshop/"
+  },
+  {
+    "course_name": "Professional Certificate in Secure Software Development",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "August",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "secure",
+      "software",
+      "development"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-secure-software-development/"
+  },
+  {
+    "course_name": "Professional Certificate in User Research for UX Design",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "user",
+      "research",
+      "design"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-user-research-for-ux-design/"
+  },
+  {
+    "course_name": "Professional Certificate in Linux Fundamentals",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "February"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "linux",
+      "fundamentals"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-linux-fundamental/"
+  },
+  {
+    "course_name": "Professional Certificate in 3D Animation & VFX",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "February",
+      "May",
+      "July",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "animation"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-3d-animation-vfx/"
+  },
+  {
+    "course_name": "Building Generative Ai Applications",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "building",
+      "generative",
+      "applications"
+    ],
+    "url": "https://www.iit.ac.lk/course/building-generative-ai-applications/"
+  },
+  {
+    "course_name": "Professional Certificate in Artificial Intelligence",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "August",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-artificial-intelligence/"
+  },
+  {
+    "course_name": "Professional Certificate in Python for Application Development – Level 2",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "python",
+      "application",
+      "development"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-advanced-python-programming/"
+  },
+  {
+    "course_name": "Professional Certificate in 3D Character Animation with Maya",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "February",
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "character",
+      "animation",
+      "with",
+      "maya"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-3d-character-animation-with-maya/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Expert Level: Security Testing",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "expert",
+      "security",
+      "testing"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-software-quality-assurance-expert-level-security-testing/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Expert Level: Performance Testing",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "expert",
+      "performance",
+      "testing"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-software-quality-assurance-expert-level-performance-testing/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Expert Level: Test Automation",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "September",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "expert",
+      "test",
+      "automation"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-software-quality-assurance-expert-level-test-automation/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Expert Level : Test Management",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "September",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "expert",
+      "test",
+      "management"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-software-quality-assurance-expert-level-test-management/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Advanced Level",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "advanced"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-software-quality-assurance-advanced-level/"
+  },
+  {
+    "course_name": "Professional Certificate in Search Engine Optimization (SEO)",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "search",
+      "engine",
+      "optimization"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-search-engine-optimization/"
+  },
+  {
+    "course_name": "Professional Certificate in Data Visualisation with Power BI",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "data",
+      "visualisation",
+      "with",
+      "power"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-power-bi/"
+  },
+  {
+    "course_name": "Professional Certificate in Java Programming with Object Oriented",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "June",
+      "August",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "java",
+      "programming",
+      "with",
+      "object",
+      "oriented"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-java-programming/"
+  },
+  {
+    "course_name": "Professional Certificate in Cyber Security",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "June",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "cyber",
+      "security"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-cyber-security/"
+  },
+  {
+    "course_name": "Professional Certificate in Network & System Administration",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": 10,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "network",
+      "system",
+      "administration"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-network-system-administration/"
+  },
+  {
+    "course_name": "Professional Certificate in Advanced Information Technology",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "April",
+      "July",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "advanced",
+      "information",
+      "technology"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-information-communication-technology/"
+  },
+  {
+    "course_name": "Professional Certificate in Software Quality Assurance – Foundation Level",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "May",
+      "September",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "software",
+      "quality",
+      "assurance",
+      "foundation"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-software-quality-assurance/"
+  },
+  {
+    "course_name": "Professional Certificate in Advanced Cyber Security",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "advanced",
+      "cyber",
+      "security"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-advanced-cyber-security/"
+  },
+  {
+    "course_name": "IIT Professional Development Unit (PDU)",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "May"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "development",
+      "unit"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-blockchain/"
+  },
+  {
+    "course_name": "Professional Certificate in Machine Learning",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "machine",
+      "learning"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-machine-learning/"
+  },
+  {
+    "course_name": "Professional Certificate in Web Development",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "February",
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "development"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-web-development/"
+  },
+  {
+    "course_name": "Certified Ethical Hacker (C|EH) Powered by AI-Accredited by EC Council v13",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "April",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "certified",
+      "ethical",
+      "hacker",
+      "powered",
+      "accredited",
+      "council"
+    ],
+    "url": "https://www.iit.ac.lk/course/certified-ethical-hacker/"
+  },
+  {
+    "course_name": "Professional Certificate in Cyber Security & Networking",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "cyber",
+      "security",
+      "networking"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-cyber-security-networking/"
+  },
+  {
+    "course_name": "Professional Certificate in 3D Animation and VFX",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "animation"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-advanced-3d-animation-and-vfx/"
+  },
+  {
+    "course_name": "Professional Certificate in Performance in an Organisation",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "performance",
+      "organisation"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-in-performance-in-an-organisation/"
+  },
+  {
+    "course_name": "Professional Certificate in Python Programming",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "April",
+      "July",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "python",
+      "programming"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-python-programming/"
+  },
+  {
+    "course_name": "Professional Certificate in Creative Graphic Designing",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "April",
+      "July",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "IIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "certificate",
+      "creative",
+      "graphic",
+      "designing"
+    ],
+    "url": "https://www.iit.ac.lk/course/professional-certificate-digital-graphic-design-3d-animation/"
+  }
+]

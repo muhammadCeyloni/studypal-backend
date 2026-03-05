@@ -2,10 +2,16 @@ require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 const Course = require('./models/Course');
+const cors = require('cors');
 
 const app = express();
 
-// Middleware
+// ✅ CORS FIRST
+app.use(cors({
+  origin: "http://localhost:5173"
+}));
+
+// ✅ JSON parser once only
 app.use(express.json());
 
 // MongoDB Connection
