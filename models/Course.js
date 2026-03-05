@@ -1,21 +1,33 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const courseSchema = new mongoose.Schema({
-  course_name: { type: String, required: true },
-  institute: { type: String, required: true },
-  short_name: { type: String, required: true },
-  level: { type: String, required: true },
-  duration_years: { type: Number, required: true },
-  total_fee_lkr: { type: Number, required: true },
-  is_ugc_recognized: { type: Boolean, required: true },
-  affiliated_university: { type: String, required: true },
-  locations: { type: [String], required: true },
-  keywords: { type: [String], required: true }
+  course_name: String,
+  degree_type: String,
+  level: String,
+  duration_years: Number,
+
+  tuition_fee_total: Number,
+  tuition_fee_per_year: Number,
+  currency: String,
+  fee_source: String,
+  price_category: String,
+
+  installment_available: Boolean,
+  scholarship_available: Boolean,
+
+  intake_months: [String],
+  application_deadline: String,
+
+  institute: String,
+  location: String,
+
+  keywords: [String],
+  url: String
 });
 
-// ✅ Separate indexes (safe)
+// indexes for search
 courseSchema.index({ keywords: 1 });
-courseSchema.index({ locations: 1 });
 courseSchema.index({ institute: 1 });
+courseSchema.index({ level: 1 });
 
-module.exports = mongoose.model('Course', courseSchema);
+module.exports = mongoose.model("Course", courseSchema);
