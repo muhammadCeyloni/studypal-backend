@@ -3,6 +3,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const Course = require('./models/Course');
 const cors = require('cors');
+const recommendRoute = require("./routes/recommend");
 
 const app = express();
 
@@ -33,6 +34,10 @@ app.post('/add-course', async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
+
+// Recommendation Route
+app.use("/recommend", recommendRoute);
+
 
 app.get('/courses', async (req, res) => {
   try {

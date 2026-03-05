@@ -79,7 +79,7 @@ else if (arg === "apiit") {
       const iitCourses = await scrapeIIT();
       const nsbmCourses = await scrapeNSBM();
       const apiitCourses = await scrapeAPIIT();
-      allCourses = [...icbtCourses, ...nibmCourses, ...sliitCourses];
+      allCourses = [...icbtCourses, ...nibmCourses, ...sliitCourses, ...iitCourses, ...nsbmCourses, ...apiitCourses];
     }
 
     else {

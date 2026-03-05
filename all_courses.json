@@ -1,5 +1,2869 @@
 [
   {
+    "course_name": "MSc Data Science",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "data",
+      "science"
+    ],
+    "url": "https://icbt.lk/courses/msc-data-science/"
+  },
+  {
+    "course_name": "MSc Information Technology",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "information",
+      "technology"
+    ],
+    "url": "https://icbt.lk/courses/msc-information-technology/"
+  },
+  {
+    "course_name": "Master of Business Administration -MBA",
+    "degree_type": "MBA",
+    "level": "Postgraduate",
+    "duration_years": 5,
+    "tuition_fee_total": 2,
+    "tuition_fee_per_year": 0,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "March",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "master",
+      "business",
+      "administration"
+    ],
+    "url": "https://icbt.lk/courses/master-of-business-administration/"
+  },
+  {
+    "course_name": "Master of Science in Project Management",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "master",
+      "science",
+      "project",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/master-of-science-in-project-management/"
+  },
+  {
+    "course_name": "MSc Strategic Marketing",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "August",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "strategic",
+      "marketing"
+    ],
+    "url": "https://icbt.lk/courses/msc-strategic-marketing/"
+  },
+  {
+    "course_name": "Master of Science in International Relations",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "master",
+      "science",
+      "relations"
+    ],
+    "url": "https://icbt.lk/courses/master-of-science-in-international-relations/"
+  },
+  {
+    "course_name": "OTHM Level 7 Diploma in Strategic Management and Leadership",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 21,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June",
+      "September",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "strategic",
+      "management",
+      "leadership"
+    ],
+    "url": "https://icbt.lk/courses/othm-level-7-diploma-in-strategic-management-and-leadership/"
+  },
+  {
+    "course_name": "OTHM Level 7 Diploma in Accounting and Finance",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 21,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "accounting",
+      "finance"
+    ],
+    "url": "https://icbt.lk/courses/othm-level-7-diploma-in-accounting-and-finance/"
+  },
+  {
+    "course_name": "OTHM Level 7 Diploma in Tourism and Hospitality Management",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 21,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "June",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "tourism",
+      "hospitality",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/othm-level-7-diploma-in-tourism-and-hospitality-management/"
+  },
+  {
+    "course_name": "OTHM Level 7 Diploma in Logistics and Supply Chain Management",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 21,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "March",
+      "June",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "logistics",
+      "supply",
+      "chain",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/othm-level-7-diploma-in-logistics-and-supply-chain-management/"
+  },
+  {
+    "course_name": "International Business Master of Laws – LLM",
+    "degree_type": "Unknown",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "June",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "master",
+      "laws"
+    ],
+    "url": "https://icbt.lk/courses/international-business-master-of-laws-llm/"
+  },
+  {
+    "course_name": "MSc in Quantity Surveying and Commercial Management",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "quantity",
+      "surveying",
+      "commercial",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/msc-in-quantity-surveying-and-commercial-management/"
+  },
+  {
+    "course_name": "MSc in Construction Project Management",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "construction",
+      "project",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/msc-in-construction-project-management/"
+  },
+  {
+    "course_name": "MSc Psychology of Applied Behaviour Change",
+    "degree_type": "MSc",
+    "level": "Postgraduate",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "psychology",
+      "applied",
+      "behaviour",
+      "change"
+    ],
+    "url": "https://icbt.lk/courses/msc-psychology-of-applied-behaviour-change/"
+  },
+  {
+    "course_name": "OTHM Level 3 Foundation Diploma for Higher Education Studies",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "March",
+      "June",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "foundation",
+      "diploma",
+      "higher",
+      "education",
+      "studies"
+    ],
+    "url": "https://icbt.lk/courses/foundation-diploma-for-higher-education-studies/"
+  },
+  {
+    "course_name": "Bachelor of Business Management (Hons)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "March",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "business",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/bachelor-of-business-management-hons/"
+  },
+  {
+    "course_name": "B.Sc. (Hons) Business and Management Degree",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/b-sc-hons-business-and-management-degree/"
+  },
+  {
+    "course_name": "B.Sc. (Hons) Business and Management – final year",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "final"
+    ],
+    "url": "https://icbt.lk/courses/b-sc-hons-business-and-management-final-year/"
+  },
+  {
+    "course_name": "B.Sc. (Hons) Global Business Management – final year",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "global",
+      "business",
+      "management",
+      "final"
+    ],
+    "url": "https://icbt.lk/courses/b-sc-hons-global-business-management-final-year/"
+  },
+  {
+    "course_name": "B.Sc. (Hons) Digital Marketing Management – final year",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "digital",
+      "marketing",
+      "management",
+      "final"
+    ],
+    "url": "https://icbt.lk/courses/b-sc-hons-digital-marketing-management-final-year/"
+  },
+  {
+    "course_name": "LLB (Hons)",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [],
+    "url": "https://icbt.lk/courses/llb-hons/"
+  },
+  {
+    "course_name": "Higher Diploma in Digital Marketing",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "March",
+      "August",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "digital",
+      "marketing"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-in-digital-marketing/"
+  },
+  {
+    "course_name": "Higher Diploma in English",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "english"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-in-english/"
+  },
+  {
+    "course_name": "OTHM L5 Extended Diploma in Management",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "March",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/othm-l5-extended-diploma-in-management/"
+  },
+  {
+    "course_name": "Bachelor of Science (Honors) Information Technology in Cyber Security (4 Years)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "science",
+      "information",
+      "technology",
+      "cyber",
+      "security"
+    ],
+    "url": "https://icbt.lk/courses/bachelor-of-science-honors-information-technology-in-cyber-security-4-years/"
+  },
+  {
+    "course_name": "Bachelor of Science (Honors) Information Technology in Data Science (4 Years)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "science",
+      "information",
+      "technology",
+      "data"
+    ],
+    "url": "https://icbt.lk/courses/bachelor-of-science-honors-information-technology-in-data-science-4-years/"
+  },
+  {
+    "course_name": "Bachelor of Science (Honours) Information Technology in Artificial Intelligence (4 Years)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "science",
+      "information",
+      "technology",
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://icbt.lk/courses/bachelor-of-science-honours-information-technology-in-artificial-intelligence-4-years/"
+  },
+  {
+    "course_name": "Bachelor of Science (Honours) in Software Engineering (4 Years)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "science",
+      "software",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/bachelor-of-science-honours-in-software-engineering-4-years/"
+  },
+  {
+    "course_name": "BSc (Hons) Software Engineering (3 year Degree)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "software",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-software-engineering-3-year-degree/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Information Systems (3 year Degree )",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "information",
+      "systems"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-business-information-systems-3-year-degree/"
+  },
+  {
+    "course_name": "BSc (Hons) in Data Science (Top Up)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "June",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "data",
+      "science"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-in-data-science-top-up/"
+  },
+  {
+    "course_name": "BSc (Hons) in Information Technology(Top Up)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "June",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "information",
+      "technology"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-in-information-technologytop-up/"
+  },
+  {
+    "course_name": "BSc (Hons) Software Engineering (Top Up)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "June",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "software",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-software-engineering-top-up/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Information Systems",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "June",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "information",
+      "systems"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-business-information-systems/"
+  },
+  {
+    "course_name": "OTHM Level 5 Extended Diploma in Information Technology",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "May"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "othm",
+      "diploma",
+      "information",
+      "technology"
+    ],
+    "url": "https://icbt.lk/courses/othm-level-5-extended-diploma-in-information-technology/"
+  },
+  {
+    "course_name": "HD in Civil Engineering",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "March",
+      "September",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "civil",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/hd-in-civil-engineering/"
+  },
+  {
+    "course_name": "BSc (Hons) Civil Engineering",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "May",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "civil",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-civil-engineering/"
+  },
+  {
+    "course_name": "BEng (Hons) Mechanical Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "mechanical",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/beng-hons-mechanical-engineering/"
+  },
+  {
+    "course_name": "BEng (Hon’s) in Automotive Engineering",
+    "degree_type": "BEng",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "automotive",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/beng-hons-in-automotive-engineering/"
+  },
+  {
+    "course_name": "BEng( Hons) Electronic and Electrical Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "electronic",
+      "electrical",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/beng-hons-electronic-and-electrical-engineering/"
+  },
+  {
+    "course_name": "BSc (Hons) in Quantity Surveying (Distance Learning)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "quantity",
+      "surveying"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-in-quantity-surveying-distance-learning/"
+  },
+  {
+    "course_name": "BSc (Hons) in Quantity Surveying (Face to Face)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "quantity",
+      "surveying"
+    ],
+    "url": "https://icbt.lk/courses/bsc-hons-in-quantity-surveying-face-to-face/"
+  },
+  {
+    "course_name": "BEng. (Hons) Mechatronics and Autonomous Systems",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "June"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "mechatronics",
+      "autonomous",
+      "systems"
+    ],
+    "url": "https://icbt.lk/courses/beng-hons-mechatronics-and-autonomous-systems/"
+  },
+  {
+    "course_name": "BEng (Hons) Biomedical Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "July",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "biomedical",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/1-beng-hons-biomedical-engineering/"
+  },
+  {
+    "course_name": "Bsc Nursing (HONS) Top Up",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "June",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "nursing"
+    ],
+    "url": "https://icbt.lk/courses/bsc-nursing-hons-top-up/"
+  },
+  {
+    "course_name": "BA (Hons) English",
+    "degree_type": "BA (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "english"
+    ],
+    "url": "https://icbt.lk/courses/ba-hons-english/"
+  },
+  {
+    "course_name": "Higher Diploma (HD) in Network Technology and Cybersecurity",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "May",
+      "August",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "network",
+      "technology",
+      "cybersecurity"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-hd-in-network-technology-and-cybersecurity/"
+  },
+  {
+    "course_name": "Higher Diploma (HD) in Computing & Software Engineering",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "May",
+      "August",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "computing",
+      "software",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-hd-in-computing-software-engineering/"
+  },
+  {
+    "course_name": "International Extended Higher Diploma in Quantity Surveying (Distance Learning)",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "April",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "quantity",
+      "surveying"
+    ],
+    "url": "https://icbt.lk/courses/international-extended-higher-diploma-in-quantity-surveying-distance-learning/"
+  },
+  {
+    "course_name": "Higher Diploma in Mechanical Engineering",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "March",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "mechanical",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-in-mechanical-engineering/"
+  },
+  {
+    "course_name": "Higher Diploma in Automotive Engineering",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 2,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "March",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "automotive",
+      "engineering"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-in-automotive-engineering/"
+  },
+  {
+    "course_name": "International Extended Higher Diploma in Quantity Surveying (Face to Face)",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "April",
+      "October",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "quantity",
+      "surveying"
+    ],
+    "url": "https://icbt.lk/courses/international-extended-higher-diploma-in-quantity-surveying-face-to-face/"
+  },
+  {
+    "course_name": "International Diploma in General Psychology and Councilling",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 16,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "general",
+      "psychology",
+      "councilling"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-general-psychology-and-councilling/"
+  },
+  {
+    "course_name": "International Diploma in Human Resource Management",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 16,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "human",
+      "resource",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-human-resource-management/"
+  },
+  {
+    "course_name": "International Diploma in Business Administration",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "business",
+      "administration"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-business-administration/"
+  },
+  {
+    "course_name": "International Diploma in Information & Communication Technology",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 16,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "April",
+      "August",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "information",
+      "communication",
+      "technology"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-information-communication-technology/"
+  },
+  {
+    "course_name": "International Diploma in Spoken English",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 16,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "spoken",
+      "english"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-spoken-english/"
+  },
+  {
+    "course_name": "International Diploma in English",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "english"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-english/"
+  },
+  {
+    "course_name": "International Diploma in Advance English",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 16,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "diploma",
+      "advance",
+      "english"
+    ],
+    "url": "https://icbt.lk/courses/international-diploma-in-advance-english/"
+  },
+  {
+    "course_name": "ICBT Advanced Certificate In Engineering Technology – Engineering Foundation",
+    "degree_type": "Unknown",
+    "level": "Foundation",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "May",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "icbt",
+      "advanced",
+      "certificate",
+      "engineering",
+      "technology",
+      "foundation"
+    ],
+    "url": "https://icbt.lk/courses/icbt-advanced-certificate-in-engineering-technology-engineering-foundation/"
+  },
+  {
+    "course_name": "Master of Business Administration (MBA) – University of Sunderland",
+    "degree_type": "MBA",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "March",
+      "June",
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "master",
+      "business",
+      "administration",
+      "university",
+      "sunderland"
+    ],
+    "url": "https://icbt.lk/courses/master-of-business-administration-mba-university-of-sunderland/"
+  },
+  {
+    "course_name": "Higher Diploma in Business Management",
+    "degree_type": "Unknown",
+    "level": "Diploma",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "May",
+      "August",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "ICBT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "higher",
+      "diploma",
+      "business",
+      "management"
+    ],
+    "url": "https://icbt.lk/courses/higher-diploma-in-business-management/"
+  },
+  {
+    "course_name": "Human Resource Management",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "April"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "human",
+      "resource",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-human-resource-management"
+  },
+  {
+    "course_name": "Management and Leadership",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "April"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "management",
+      "leadership"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-management-and-leadership"
+  },
+  {
+    "course_name": "International Tourism and Hospitality Management",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "February"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "tourism",
+      "hospitality",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-international-tourism-and-hospitality-management"
+  },
+  {
+    "course_name": "Professional Accounting",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "professional",
+      "accounting"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-professional-accounting"
+  },
+  {
+    "course_name": "Digital Banking and Finance",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "April"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "digital",
+      "banking",
+      "finance"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-in-digital-banking-and-finance"
+  },
+  {
+    "course_name": "Digital Marketing and Brand Management",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 350000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "digital",
+      "marketing",
+      "brand",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-in-digital-marketing"
+  },
+  {
+    "course_name": "Bachelor of Business",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "October"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "business"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-business"
+  },
+  {
+    "course_name": "Ethical Hacking and Network Security",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "ethical",
+      "hacking",
+      "network",
+      "security"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-ethical-hacking-and-network-security"
+  },
+  {
+    "course_name": "Information Technology for Business",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "information",
+      "technology",
+      "business"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-information-technology-for-business"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science with Software Engineering",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science",
+      "with",
+      "software",
+      "engineering"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-compuer-science-with-software-engineering"
+  },
+  {
+    "course_name": "Creative Multimedia",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "creative",
+      "multimedia"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-creative-multimedia"
+  },
+  {
+    "course_name": "Bachelor of Communication (All majors)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 300000,
+    "tuition_fee_per_year": 100000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "communication"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-professional-design-visual-communication"
+  },
+  {
+    "course_name": "Computer Science with Artificial Intelligence",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science",
+      "with",
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-computerscience-with-ai"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science with Applied Artificial Intelligence",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science",
+      "with",
+      "applied",
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-computer-science-with-applied-ai"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science with Data Science",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science",
+      "with",
+      "data"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-computer-science-with-data-science"
+  },
+  {
+    "course_name": "Civil Engineering",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "civil",
+      "engineering"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-engineering-honours-civil-engineering"
+  },
+  {
+    "course_name": "Quantity Surveying & Commercial Management",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 250000,
+    "tuition_fee_per_year": 83333,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "quantity",
+      "surveying",
+      "commercial",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-quantity-surveying-commercial-management"
+  },
+  {
+    "course_name": "Electro-Mechanical Engineering",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "August"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "electro",
+      "mechanical",
+      "engineering"
+    ],
+    "url": "https://nibm.ac.lk/course/beng-hons-in-electro-mechanical-engineering"
+  },
+  {
+    "course_name": "English and TESOL",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 200000,
+    "tuition_fee_per_year": 66667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "November"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "english",
+      "tesol"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-english-and-tesol"
+  },
+  {
+    "course_name": "English Studies",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 200000,
+    "tuition_fee_per_year": 66667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "December"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "english",
+      "studies"
+    ],
+    "url": "https://nibm.ac.lk/course/ba-hons-english-studies"
+  },
+  {
+    "course_name": "Bachelor of Design (Fashion)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "design"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-design-fas"
+  },
+  {
+    "course_name": "Interior Architecture",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 1500000,
+    "tuition_fee_per_year": 375000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "February"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "interior",
+      "architecture"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-arts-in-interior-architecture"
+  },
+  {
+    "course_name": "Bachelor of Built Environment ( Interior Design Major ) (Hons)",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "built",
+      "environment"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-built-environment-interior-design-major-hons"
+  },
+  {
+    "course_name": "Fashion Design",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 2250000,
+    "tuition_fee_per_year": 750000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "February"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "fashion",
+      "design"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-arts-hons-in-fashion-design"
+  },
+  {
+    "course_name": "Broadcasting & Journalism",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "broadcasting",
+      "journalism"
+    ],
+    "url": "https://nibm.ac.lk/course/bachelor-of-arts-hons-in-broadcasting-journalism"
+  },
+  {
+    "course_name": "Psychology",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 400000,
+    "tuition_fee_per_year": 133333,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "psychology"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-in-psychology"
+  },
+  {
+    "course_name": "Data Science",
+    "degree_type": "Unknown",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 300000,
+    "tuition_fee_per_year": 100000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "data",
+      "science"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-data-science"
+  },
+  {
+    "course_name": "BSc(Hons) Global Logistics (Full-Time)",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": true,
+    "intake_months": [
+      "January"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "global",
+      "logistics"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-global-logistics"
+  },
+  {
+    "course_name": "BSc(Hons) Global Logistics (Part-Time)",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 250000,
+    "tuition_fee_per_year": 83333,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": true,
+    "intake_months": [
+      "January",
+      "February",
+      "July"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "global",
+      "logistics"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-global-logistics-part-time"
+  },
+  {
+    "course_name": "BSc (Hons) Manufacturing Management (Full Time)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": true,
+    "intake_months": [
+      "March"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "manufacturing",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-manufacturing-management-full-time"
+  },
+  {
+    "course_name": "BSc (Hons) Manufacturing Management (Part Time)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 116667,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": true,
+    "intake_months": [
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "NIBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "manufacturing",
+      "management"
+    ],
+    "url": "https://nibm.ac.lk/course/bsc-hons-manufacturing-management-part-time"
+  },
+  {
+    "course_name": "Bsc Hon In Biomedical Science",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "June",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "biomedical",
+      "science"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/bsc-hon-in-biomedical-science/"
+  },
+  {
+    "course_name": "Bsc Hons Psychology",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 350000,
+    "tuition_fee_per_year": 87500,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "psychology"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/bsc-hons-psychology/"
+  },
+  {
+    "course_name": "Llb Hons Law Degree",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/llb-hons-law-degree/"
+  },
+  {
+    "course_name": "B Ed Hons In Biological Sciences Degree",
+    "degree_type": "BEd (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 215000,
+    "tuition_fee_per_year": 53750,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "biological",
+      "sciences"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/b-ed-hons-in-biological-sciences-degree/"
+  },
+  {
+    "course_name": "B Ed Hons In English Degree",
+    "degree_type": "BEd (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 215000,
+    "tuition_fee_per_year": 53750,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "english"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/b-ed-hons-in-english-degree/"
+  },
+  {
+    "course_name": "B Ed Hons In Physical Sciences Degree",
+    "degree_type": "BEd (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 215000,
+    "tuition_fee_per_year": 53750,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "physical",
+      "sciences"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/b-ed-hons-in-physical-sciences-degree/"
+  },
+  {
+    "course_name": "Social Sciences Degree",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": 4,
+    "tuition_fee_total": 2,
+    "tuition_fee_per_year": 1,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "social",
+      "sciences"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/social-sciences-degree/"
+  },
+  {
+    "course_name": "Bachelor Of Science Hons In Biotechnology Degree",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 400000,
+    "tuition_fee_per_year": 100000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "science",
+      "biotechnology"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/bachelor-of-science-hons-in-biotechnology-degree/"
+  },
+  {
+    "course_name": "Bsc Hons In Financial Mathematics And Applied Statistics",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": 320000,
+    "tuition_fee_per_year": 80000,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "June",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "financial",
+      "mathematics",
+      "applied",
+      "statistics"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/bsc-hons-in-financial-mathematics-and-applied-statistics/"
+  },
+  {
+    "course_name": "Llb Hons Law",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "January",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [],
+    "url": "https://www.sliit.lk/llb-hons-law/"
+  },
+  {
+    "course_name": "Bsc Hons Psychology",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "psychology"
+    ],
+    "url": "https://www.sliit.lk/bsc-hons-psychology/"
+  },
+  {
+    "course_name": "English Studies Degree",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [
+      "February",
+      "September"
+    ],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "english",
+      "studies"
+    ],
+    "url": "https://www.sliit.lk/humanities-sciences/programmes/undergraduate-degree-programs/english-studies-degree/"
+  },
+  {
+    "course_name": "Postgraduate Diploma In Education",
+    "degree_type": "Postgraduate Diploma",
+    "level": "Postgraduate",
+    "duration_years": null,
+    "tuition_fee_total": 140000,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "postgraduate",
+      "diploma",
+      "education"
+    ],
+    "url": "https://www.sliit.lk/graduate-studies/programms/pgd-programmes/postgraduate-diploma-in-education/"
+  },
+  {
+    "course_name": "Masters Of Education",
+    "degree_type": "Unknown",
+    "level": "Postgraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "SLIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "masters",
+      "education"
+    ],
+    "url": "https://www.sliit.lk/graduate-studies/programms/msc-programmes/masters-of-education/"
+  },
+  {
     "course_name": "BSc (Hons) Business Computing",
     "degree_type": "BSc (Hons)",
     "level": "Undergraduate",
@@ -1277,5 +4141,1057 @@
       "designing"
     ],
     "url": "https://www.iit.ac.lk/course/professional-certificate-digital-graphic-design-3d-animation/"
+  },
+  {
+    "course_name": "Bachelor Of Management Honors In Business Analytics",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "management",
+      "honors",
+      "business",
+      "analytics"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bachelor-of-management-honors-in-business-analytics/"
+  },
+  {
+    "course_name": "Bachelor Of Management Honors In Applied Economics",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "management",
+      "honors",
+      "applied",
+      "economics"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bachelor-of-management-honors-in-applied-economics/"
+  },
+  {
+    "course_name": "Bbm Hons Tourism Hospitality Events",
+    "degree_type": "BBM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "tourism",
+      "hospitality",
+      "events"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bbm-hons-tourism-hospitality-events/"
+  },
+  {
+    "course_name": "Bsc In Multimedia",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "multimedia"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-multimedia/"
+  },
+  {
+    "course_name": "Ba In Business Communication",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "communication"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/ba-in-business-communication/"
+  },
+  {
+    "course_name": "Bm Hons In Accounting And Finance",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "accounting",
+      "finance"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-accounting-and-finance/"
+  },
+  {
+    "course_name": "Bm Hons In International Business",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-international-business/"
+  },
+  {
+    "course_name": "Bsc In Business Management Industrial Management Special Ugc",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "industrial",
+      "special"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-business-management-industrial-management-special-ugc/"
+  },
+  {
+    "course_name": "Bsc In Business Management Project Management Special",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "project",
+      "special"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-business-management-project-management-special/"
+  },
+  {
+    "course_name": "Bsc In Business Management Logistics Management Special",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "logistics",
+      "special"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-business-management-logistics-management-special/"
+  },
+  {
+    "course_name": "Bsc In Business Management Human Resource Management Special",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "human",
+      "resource",
+      "special"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-business-management-human-resource-management-special/"
+  },
+  {
+    "course_name": "Bachelor Of Laws Honours",
+    "degree_type": "BA",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "bachelor",
+      "laws",
+      "honours"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bachelor-of-laws-honours/"
+  },
+  {
+    "course_name": "Bm Hons In Marketing Management",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "marketing",
+      "management"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-marketing-management/"
+  },
+  {
+    "course_name": "Bm Hons In Law And Business Studies",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "studies"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-law-and-business-studies/"
+  },
+  {
+    "course_name": "Bm Hons In Law And International Trade",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "trade"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-law-and-international-trade/"
+  },
+  {
+    "course_name": "Bm Hons In Law And E Commerce",
+    "degree_type": "BM (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "commerce"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bm-hons-in-law-and-e-commerce/"
+  },
+  {
+    "course_name": "Bsc In Business Management Innovation Logistic",
+    "degree_type": "BSc",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management",
+      "innovation",
+      "logistic"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-in-business-management-innovation-logistic/"
+  },
+  {
+    "course_name": "Bsc Hons Business Communication",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "communication"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-business-communication/"
+  },
+  {
+    "course_name": "Bsc Hons Events Tourism And Hospitality Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "events",
+      "tourism",
+      "hospitality",
+      "management"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-events-tourism-and-hospitality-management/"
+  },
+  {
+    "course_name": "Bsc Hons Operations And Logistics Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "operations",
+      "logistics",
+      "management"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-operations-and-logistics-management/"
+  },
+  {
+    "course_name": "Bsc Hons Marketing Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "marketing",
+      "management"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-marketing-management/"
+  },
+  {
+    "course_name": "Bsc Hons Accounting And Finance",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "accounting",
+      "finance"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-accounting-and-finance/"
+  },
+  {
+    "course_name": "Bsc Hons International Management And Business",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "management",
+      "business"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/bsc-hons-international-management-and-business/"
+  },
+  {
+    "course_name": "Llb Hons Law University Of Plymouth Uk",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": true,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "NSBM",
+    "location": "Sri Lanka",
+    "keywords": [
+      "university",
+      "plymouth"
+    ],
+    "url": "https://www.nsbm.ac.lk/course/llb-hons-law-university-of-plymouth-uk/"
+  },
+  {
+    "course_name": "BEng (Hons) Software Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "software",
+      "engineering"
+    ],
+    "url": "https://apiit.lk/courses/beng-hons-software-engineering/"
+  },
+  {
+    "course_name": "BSc (Hons) Cyber Security",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "cyber",
+      "security"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-cyber-security/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science (Software Development)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-computer-science-software-development/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science (Network Computing)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-computer-science-network-computing/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science (Internet and Web Management)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-computer-science-internet-and-web-management/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science (Cloud Technologies)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-computer-science-cloud-technologies/"
+  },
+  {
+    "course_name": "BSc (Hons) Computer Science",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "computer",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-computer-science/"
+  },
+  {
+    "course_name": "LLB (HONS) LAW (Part Time)",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [],
+    "url": "https://apiit.lk/courses/llb-hons-law-part-time/"
+  },
+  {
+    "course_name": "LLB (HONS) Law",
+    "degree_type": "LLB (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [],
+    "url": "https://apiit.lk/courses/llb-hons-law/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-business-management/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Management (Innovation and Entrepreneurship)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/ba-hons-business-innovation-and-entrepreneurship/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Management (Human Resource Management)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-business-management-human-resource-management/"
+  },
+  {
+    "course_name": "BSc (Hons) Business Management (Sustainability)",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-business-management-sustainability/"
+  },
+  {
+    "course_name": "BSc (Hons) International Business Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-international-business-management/"
+  },
+  {
+    "course_name": "BSc (Hons) Digital and Social Media Marketing",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "digital",
+      "social",
+      "media",
+      "marketing"
+    ],
+    "url": "https://apiit.lk/courses/ba-hons-digital-and-social-media-marketing/"
+  },
+  {
+    "course_name": "BSc (Hons) Accounting and Finance",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "accounting",
+      "finance"
+    ],
+    "url": "https://apiit.lk/courses/ba-hons-finance-and-business-enterprise/"
+  },
+  {
+    "course_name": "NCUK International Year One in Business Management",
+    "degree_type": "Unknown",
+    "level": "Other",
+    "duration_years": null,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "estimated",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "ncuk",
+      "business",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/ncuk-international-year-one-in-business-management/"
+  },
+  {
+    "course_name": "BEng (Hons) Electrical and Electronic Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "electrical",
+      "electronic",
+      "engineering"
+    ],
+    "url": "https://apiit.lk/courses/beng-hons-electrical-and-electronic-engineering/"
+  },
+  {
+    "course_name": "BEng (Hons) Mechanical Engineering",
+    "degree_type": "BEng (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "beng",
+      "mechanical",
+      "engineering"
+    ],
+    "url": "https://apiit.lk/courses/beng-hons-mechanical-engineering/"
+  },
+  {
+    "course_name": "BSc (Hons) Biomedical Science",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "biomedical",
+      "science"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-biomedical-science/"
+  },
+  {
+    "course_name": "BSc (Hons) Psychology",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 1,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "psychology"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-psychology/"
+  },
+  {
+    "course_name": "BSc (Hons) Artificial Intelligence",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 3,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "artificial",
+      "intelligence"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-artificial-intelligence/"
+  },
+  {
+    "course_name": "BSc (Hons) International Hospitality Management",
+    "degree_type": "BSc (Hons)",
+    "level": "Undergraduate",
+    "duration_years": 4,
+    "tuition_fee_total": null,
+    "tuition_fee_per_year": null,
+    "currency": "LKR",
+    "fee_source": "scraped",
+    "price_category": null,
+    "installment_available": false,
+    "scholarship_available": false,
+    "intake_months": [],
+    "application_deadline": null,
+    "institute": "APIIT",
+    "location": "Sri Lanka",
+    "keywords": [
+      "hospitality",
+      "management"
+    ],
+    "url": "https://apiit.lk/courses/bsc-hons-international-hospitality-management/"
   }
 ]
