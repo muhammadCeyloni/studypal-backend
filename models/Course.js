@@ -22,7 +22,13 @@ const courseSchema = new mongoose.Schema({
   location: String,
 
   keywords: [String],
-  url: String
+  url: String,
+  
+  embedding: {
+    type: [Number],
+    default: []
+  }
+
 });
 
 // indexes for search

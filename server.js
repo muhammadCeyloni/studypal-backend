@@ -4,28 +4,35 @@ const mongoose = require('mongoose');
 const Course = require('./models/Course');
 const cors = require('cors');
 const recommendRoute = require("./routes/recommend");
+const semanticRoute = require("./routes/semanticSearch");
 
 const app = express();
 
-// ✅ CORS FIRST
 app.use(cors({
   origin: "http://localhost:5173"
 }));
 
-// ✅ JSON parser once only
 app.use(express.json());
 
 // MongoDB Connection
 mongoose.connect(process.env.MONGO_URI)
-  .then(() => console.log("MongoDB Connected"))
-  .catch(err => console.log("Connection Error:", err));
+.then(() => {
 
-// Test Route
+  console.log("MongoDB Connected");
+
+  app.listen(5000, () => {
+    console.log("Server running on port 5000");
+  });
+
+})
+.catch(err => {
+  console.log("MongoDB Connection Error:", err);
+});
+
 app.get('/', (req, res) => {
   res.send("Server is running");
 });
 
-// Add Course Route
 app.post('/add-course', async (req, res) => {
   try {
     const course = await Course.create(req.body);
@@ -35,9 +42,7 @@ app.post('/add-course', async (req, res) => {
   }
 });
 
-// Recommendation Route
 app.use("/recommend", recommendRoute);
-
 
 app.get('/courses', async (req, res) => {
   try {
@@ -79,7 +84,4 @@ app.get('/filter', async (req, res) => {
   }
 });
 
-app.listen(5000, () => {
-  console.log("Server running on port 5000");
-});
-
+app.use("/semantic-search", semanticRoute);
