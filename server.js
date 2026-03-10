@@ -20,6 +20,23 @@ mongoose.connect(process.env.MONGO_URI)
 
   console.log("MongoDB Connected");
 
+app.post('/chat', async (req, res) => {
+  try {
+    const { message } = req.body;
+    const completion = await groq.chat.completions.create({
+      model: "llama-3.1-8b-instant",
+      messages: [
+        { role: "system", content: "You are the StudyPal AI Assistant. Help students in Sri Lanka find university degrees, understand academic terms, and guide career paths. Be friendly, concise, and highly encouraging." },
+        { role: "user", content: message }
+      ],
+      temperature: 0.7,
+    });
+    res.json({ reply: completion.choices[0].message.content });
+  } catch (err) {
+    res.status(500).json({ error: "Sorry, my servers are currently analyzing course data. Try again in a moment!" });
+  }
+});  
+
   app.listen(5000, () => {
     console.log("Server running on port 5000");
   });
